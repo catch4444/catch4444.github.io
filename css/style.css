@@ -827,7 +827,7 @@ ul.dropdown-menu li {
   background-attachment: fixed;
   background-position: 10% 0%;
   padding: 200px 0;
-  position: relative;
+  background-position: center;
 }
 @media (max-width: 992px) {
   .slider {
@@ -2086,6 +2086,7 @@ ul.dropdown-menu li {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center;
   opacity: 0.9;
 }
 
